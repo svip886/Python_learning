@@ -109,11 +109,12 @@
         turtle.right(180)
         # 设置向右转（顺时针）的角度，同理可以使用向左
         ```
-    3.教程示例
+        
+     3. 教程示例
     
         ```python
         import turtle
-
+        
         turtle.pensize(4)
         turtle.pencolor('red')
         
@@ -124,6 +125,6 @@
         turtle.forward(100)
         turtle.right(90)
         turtle.forward(100)
-
+        
         turtle.mainloop()
         ```
