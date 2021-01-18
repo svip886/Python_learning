@@ -6,4 +6,5 @@ Author:Paranoid
 """
 print("hello world!")
 #你好，世界
+
 print(123*123)
