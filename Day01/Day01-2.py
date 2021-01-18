@@ -1,3 +1,4 @@
+# 使用turtle写出一个“木”字
 import turtle
 
 turtle.pensize(5)
